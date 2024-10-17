@@ -4,7 +4,7 @@ Este repositório contém o código e os scripts SQL do meu primeiro projeto de 
 
 ## Estrutura do Banco de Dados
 
-### Tabela `tbProduto`
+### Tabela `tbprodutos`
 
 - **PRODUTO**: Código do produto (VARCHAR 20)
 - **NOME**: Nome do produto (VARCHAR 150)
@@ -13,7 +13,7 @@ Este repositório contém o código e os scripts SQL do meu primeiro projeto de 
 - **SABOR**: Sabor do produto (VARCHAR 50)
 - **PRECO_LISTA**: Preço de venda sugerido (FLOAT)
 
-### Tabela `tbClientes`
+### Tabela `tbclientes`
 
 - **CPF**: Número do CPF do cliente (VARCHAR 11)
 - **NOME**: Nome completo do cliente (VARCHAR 100)
